@@ -2,5 +2,4 @@ cloudinary
 Flask
 flask_sqlalchemy
 mysql-connector-python
-waitress
 requests
